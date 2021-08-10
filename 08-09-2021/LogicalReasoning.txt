@@ -1,0 +1,23 @@
+3. What day is the fourteenth of a given month?
+
+I. The last day of the month is a Wednesday.
+
+II. The third Saturday of the month was seventeenth.
+
+
+(a) if the data in statement I alone are sufficient to answer the question;
+
+(b) if the data in statement II alone are sufficient to answer the question;
+
+(c) if the data either in I or II alone are sufficient to answer the question;
+
+(d) if the data even in both the statements together are not sufficient to answer the question;
+
+(e) if the data in both the statements together are needed;
+
+Solution:
+(b) is the correct answer.
+(I): Knowing that the 17th is a Saturday means that the 14th is a Wednesday.
+
+(II): Knowing that the month ends on Wednesday isn't enough information.
+Months have variable number of days, so this information doesn't help.
